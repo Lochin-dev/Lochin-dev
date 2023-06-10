@@ -2,9 +2,12 @@
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lochin-quvondiqov-b94547262)](https://www.linkedin.com/in/lochin-quvondiqov-b94547262/) 
+
 [![Telegram Badge](https://img.shields.io/badge/@Lochinbek2212-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/lochinbek2212)](https://t.me/lochinbek2212) 
-[![Instagram Badge](https://img.shields.io/badge/@_kuvond1kov-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_kuvond1kov)](https://www.instagram.com/_kuvond1kov)
+[![Instagram Badge](https://img.shields.io/badge/@_kuvond1kov-E5524F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_kuvond1kov)](https://www.instagram.com/_kuvond1kov)
+[![Linkedin Badge](https://img.shields.io/badge/-@lochin-quvondiqov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lochin-quvondiqov-b94547262)](https://www.linkedin.com/in/lochin-quvondiqov-b94547262/)
+[![Twitter Badge](https://img.shields.io/badge/-@_kuvond1kov-1DA1F2?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/_kuvond1kov)](https://twitter.com/_kuvond1kov)
+
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
