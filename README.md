@@ -43,8 +43,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
 
 
-## _______________________
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme={theme_name}
+##
+![Image](https://github-readme-stats.vercel.app/api/top-langs/?username={Lochin-dev}&theme={dark})
 
 
