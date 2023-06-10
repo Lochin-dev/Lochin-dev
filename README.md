@@ -47,7 +47,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lochin-dev&show_icons=true&theme=gotham" alt="Lochin-dev" />
   
 ## 💳 Github Profile Summary Card 🔝
-  <p align="center"> <img src=" https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Lochin-dev}
+  <p align="center"> <img src=" https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lochin-dev&show_icons=true&theme=gotham
 " alt="Lochin-dev" />
   
  
