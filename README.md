@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lochin</h1>
 
 <h3 align="center">I am from Uzbekistan and my interest is web programming 💻</h3>
+
 ## 👨 My Social networks🔝
 [![Telegram Badge](https://img.shields.io/badge/@Lochinbek2212-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/lochinbek2212)](https://t.me/lochinbek2212) 
 [![Instagram Badge](https://img.shields.io/badge/@_kuvond1kov-E5524F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_kuvond1kov)](https://www.instagram.com/_kuvond1kov)
