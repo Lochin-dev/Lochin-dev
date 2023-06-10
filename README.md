@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lochin</h1>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- <h3>💻 I am from Uzbekistan and my interest is web programming </h3>
+<h3>💻 I am from Uzbekistan and my interest is web programming </h3>
 - :computer: I'm currently doing an internship at Nojat Ta'lim.
 
 ## 👨 My Social networks🔝
